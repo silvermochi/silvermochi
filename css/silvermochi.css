@@ -889,3 +889,10 @@ modal-body .picx2 img{
 }
 
 .ctbox{ width:300px; margin:0 auto; color:#777;}
+
+/****2015/12更新****/
+.ct-fontbox{color:#fff;}
+.ct-fontbox .textarea{ border-left:20px solid #B8B9AA;padding:20px;}
+.ct-fontbox a{color:#fff;padding:5px;}
+.ct-fontbox a:hover{background-color:#f8bbd5;padding:5px;text-decoration:none;color:#333;}
+.qrcode-line{ width:200px; display:block;}
